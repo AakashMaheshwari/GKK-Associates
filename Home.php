@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>GKK Associates</title>
+  <title>GK & K Associates</title>
   <link rel="icon" href="images/Only-G.png">
   <link rel="stylesheet" href="asset/css/animate.css">
   <link rel="stylesheet" href="animate.min.css">
@@ -21,7 +21,7 @@
   <script src="asset/js/bootstrap.js"></script>
   <script src="asset/js/bootstrap.min.js"></script>
   <script src="jsandjQuery/Indexpage.js" charset="utf-8"></script>
-  
+
   <link rel="" href="contactform.php">
 
 </head>
@@ -29,7 +29,7 @@
 <body>
 
 
-  
+
 
     <!--============================-->
     <!--Social Media Links -->
@@ -98,7 +98,7 @@
 
     <div class="container-fluid navigation-fixed" id="navigationbar">
       <a href="#" id="logo">
-        <img src="images/01_A_with_Thailand.png" alt="" id="LogoImage" class="img-responsive" >
+        <img src="images/06.png" alt="" id="LogoImage" class="img-responsive" width="300px" height="70px" >
       </a>
 
       <input type="checkbox" name="" id="menubar">
@@ -129,11 +129,11 @@
               </li>
               <li >
                 <a href="#TelecomImplementation" class="scroll">Telecom Implementation</a>
-               
+
               </li>
               <li>
                 <a href="#oprtandMaint" class="scroll">Operation and Maintainance</a>
-                
+
               </li>
               <li>
                 <a href="#Engg-Solutions" class="scroll"> Engineering Solutions</a>
@@ -160,7 +160,7 @@
                   <li>
                       <a href="industries.html" >Solar Power</a>
                     </li>
-              
+
             </ul>
           </li>
           <li id="menu-Contact">
@@ -216,32 +216,32 @@
       </a>
     </div>
 
-    
+
     <!--=======================-->
     <!--Header for Mobile version-->
     <!--=======================-->
 
     <div class="container-fluid" id="Mobile-Header">
-      <img src="images/01_A_with_Thailand.png" alt="Header-Image" id="Mob-Header-img">
+       <img src="images/06.png" alt="Header-Image" id="Mob-Header-img" height="90px" width="250px">
     </div>
-    
+
     <!--=======================-->
     <!--About Us Section-->
     <!--=======================-->
     <div class="container-fluid divider" id="AboutUs">
-      <h1 class="setMargin" style="text-align:center; margin-bottom:15px">About GKK Associates</h1>
+      <h1 class="setMargin" style="text-align:center; margin-bottom:15px">About GK & K Associates</h1>
       <div class="underline-white" ></div>
       <div class="row setMargin Mobile-About-margin">
         <div class="col-sm-5 col-sm-offset-1 About" style="border-right:1px solid grey">
           <h2>Who We are</h2>
           <div class="About-Desc">
-            GKK Associates (Thailand) Co. Ltd. is a global services and solutions company that excels in the areas of telecommunications,
+            GK & K Associates (Thailand) Co. Ltd. is a global services and solutions company that excels in the areas of telecommunications,
             information Technology and communications Engineering.
             <br>
             <br> Our members, partners and staff of engineers are professional with 40 years of rich experience in Thailand telecom
             and IT Industry.
             <br>
-            <br> Our Work define us, We build best products and we work very hard every day to make GKK Associates Thailand's
+            <br> Our Work define us, We build best products and we work very hard every day to make GK & K Associates Thailand's
             most respected service brand.
           </div>
         </div>
@@ -261,7 +261,7 @@
         </div>
       </div>
     </div>
-    
+
     <!--=======================-->
     <!-- Core Values -->
     <!--=======================-->
@@ -295,7 +295,7 @@
       </div>
     </div>
 
-    
+
     <!--=======================-->
     <!--Services Section-->
     <!--=======================-->
@@ -303,7 +303,8 @@
     <div class="container-fluid telcomImplement " id="ServicesInto">
       <h1 class="setMargin" style="text-align:center;margin-bottom:15px;">Services We provide</h1>
       <div class="underline" id="TelecomImplementation"></div>
-      <h2 class="setMargin font-change" style="text-align:center;">Telecom Implementation</h2>
+      <h2 class="setMargin font-change" style="text-align:center; margin-bottom:15px">Telecom Implementation</h2>
+       <div class="underline"></div>
       <div class="row ">
       <div class="col-sm-offset-1 col-sm-10 col-sm-offset-1 services-Desc" >
         <p>Our Telecom Implementation services include installation, commissioning, integration and reporting to customers.We ensure that standard safety and security measures are followed for smooth network operations. We perform quality audits and site surveys on timely basis as part of our Implementation services.</p>
@@ -311,14 +312,14 @@
       </div>
       <!-- Mobile Version -->
       <div class="Mobile-version" >
-         
+
           <img src="images/Telecom-Mobile.jpg" alt="Image" id="Mob-Telecom-Image" width="100%" height="200px" >
-          
+
           <div class="Mobile-Submenu-Bg">
               <br>
               <div class="Description">
                 <p>Our Telecom Implementation services include installation, commissioning, integration and reporting to customers.We ensure that standard safety and security measures are followed for smooth network operations. We perform quality audits and site surveys on timely basis as part of our Implementation services.</p>
-                
+
               </div>
           <ul>
             <li>Broadband and MSAN Network</li>
@@ -331,11 +332,11 @@
           <br>
         </div>
         </div>
-        
+
         <!--Web Version -->
         <div class="web-version">
       <div class="row" >
-        
+
         <div class="col-sm-offset-2 col-sm-2 serviceSubsection">
           <div id="service-1">
             <img src="images/Broadband_Image.jpg" alt="Telecom image" class="img-responsive">
@@ -354,8 +355,8 @@
 
         </div>
       </div>
-        
-      <div class="row setMargin">        
+
+      <div class="row setMargin">
         <div class="col-sm-offset-2 col-sm-2 serviceSubsection" id="service-4">
           <img src="images/BSC RNC.jpg" alt="Maintainanace Image" class="img-responsive">
           <h4 style="text-align:center">BSC /RNC installation, commissioning and integration</h4>
@@ -378,21 +379,22 @@
     <div class="container-fluid ">
       <div class="row" id="oprtandMaint">
         <h2 class="setMargin font-change" style="text-align:center;margin-bottom:15px;">Operation and Maintainance</h2>
+         <div class="underline"></div>
          <div class="row services-Desc">
             <div class="col-sm-offset-1 col-sm-10 col-sm-offset-1 services-Desc" >
-          <p>As part of our Operation & Maintenance activities at GKK Associates we perform constant Monitoring and in case of any equipment or software failures we quickly identify and undertake the corrective measures. Our main focus areas in O&M activities are - GSM Broadband/CDMA RNC software’s handling, hardware upgradations at periodic intervals and providing efficient Radio Network planning and Optimization techniques.</p>
+          <p>As part of our Operation & Maintenance activities at GK & K Associates we perform constant Monitoring and in case of any equipment or software failures we quickly identify and undertake the corrective measures. Our main focus areas in O&M activities are - GSM Broadband/CDMA RNC software’s handling, hardware upgradations at periodic intervals and providing efficient Radio Network planning and Optimization techniques.</p>
         </div>
         </div>
        <!-- <div class="underline"></div>-->
         <!-- Mobile Version -->
       <div class="Mobile-version">
-          
+
           <img src="images/optandMaint.jpg" alt="Image" id="Mob-Telecom-Image" width="100%" height="200px">
           <div class="Mobile-Submenu-Bg">
 
           <br>
           <div class="Description">
-            <p>As part of our Operation & Maintenance activities at GKKAssociates we perform constant Monitoring and in case of any equipment or software failures we quickly identify and undertake the corrective measures. Our main focus areas in O&M activities are - GSM Broadband/CDMA RNC software’s handling, hardware upgradations at periodic intervals and providing efficient Radio Network planning and Optimization techniques.</p>
+            <p>As part of our Operation & Maintenance activities at GK & K Associates we perform constant Monitoring and in case of any equipment or software failures we quickly identify and undertake the corrective measures. Our main focus areas in O&M activities are - GSM Broadband/CDMA RNC software’s handling, hardware upgradations at periodic intervals and providing efficient Radio Network planning and Optimization techniques.</p>
           </div>
           <ul>
             <li>Handle GSM Broadband / CDMA RNC software</li>
@@ -431,6 +433,7 @@
     <div class="container-fluid divider" style="background-color:rgb(37, 67, 147)">
       <div class="row" id="Engg-Solutions">
         <h2 class="setMargin font-change" style="text-align:center; margin-bottom:15px; color:white">Total Engineering Solutions</h2>
+         <div class="underline"></div>
         <div class="underline"></div>
 
         <!-- Mobile Version -->
@@ -470,19 +473,20 @@
      <!--   <h1 class="setMargin" style="text-align:center; margin-bottom:15px;">Industries We are into</h1>
         <div class="underline"></div>-->
         <h2 class="setMargin font-change" style="text-align:center; margin-bottom:15px;" >IT Consulting</h2>
+         <div class="underline"></div>
         <div class="row services-Desc">
             <div class="col-sm-offset-1 col-sm-10 col-sm-offset-1 services-Desc" >
-        <p>At GKK Associates we have expertise and experience in offering short term or long term IT consulting services to our customers based on their requirements. Our dynamic IT team at GKK Associates are technology experts who can provide the customers with effective solutions using latest technologies and methodologies. We believe that customer growth is our growth.</p>
+        <p>At GK & K Associates we have expertise and experience in offering short term or long term IT consulting services to our customers based on their requirements. Our dynamic IT team at GK & K Associates are technology experts who can provide the customers with effective solutions using latest technologies and methodologies. We believe that customer growth is our growth.</p>
         </div>
         </div>
         <!-- Mobile Version -->
       <div class="Mobile-version">
-          
+
           <img src="images/cloud-service-1.jpg" alt="Image" id="Mob-Telecom-Image" width="100%" height="200px">
           <div class="Mobile-Submenu Bg">
           <br><br>
           <div class="Description">
-            <p>At GKKAssociates we have expertise and experience in offering short term or long term IT consulting services to our customers based on their requirements. Our dynamic IT team at GKKAssociates are technology experts who can provide the customers with effective solutions using latest technologies and methodologies. We believe that customer growth is our growth.</p>
+            <p>At GK & K Associates we have expertise and experience in offering short term or long term IT consulting services to our customers based on their requirements. Our dynamic IT team at GK & K Associates are technology experts who can provide the customers with effective solutions using latest technologies and methodologies. We believe that customer growth is our growth.</p>
             </div>
           <ul>
             <li>Blockchain</li>
@@ -530,21 +534,22 @@
     <div class="container-fluid divider">
       <div class="row" id="staff">
         <h2 class="setMargin font-change" style="text-align:center; margin-bottom:15px;">Staffing</h2>
+         <div class="underline"></div>
        <div class="row services-Desc">
             <div class="col-sm-offset-1 col-sm-10 col-sm-offset-1 services-Desc" >
-          <p>GKK Associates help companies concentrate more on their business growth by handling their resource requirements.
+          <p>GK & K Associates help companies concentrate more on their business growth by handling their resource requirements.
             Our primary objective is to provide right people satisfying our client needs. We provide clients with qualified and experienced professionals with skills matching their requirement. We are well experienced in our services to clients in satisfying their Permanent Recruitment or in their temporary and contract staffing needs.
             </p>
         </div>
         </div>
         <!-- Mobile Version -->
       <div class="Mobile-version">
-          
+
           <img src="images/staffing.jpg" alt="Image" id="Mob-Telecom-Image" width="100%" height="200px">
           <div class="Mobile-Submenu-Bg">
           <br><br>
           <div class="Description">
-            <p>GKKAssociates help companies concentrate more on their business growth by handling their resource requirements.
+            <p>GK & K Associates help companies concentrate more on their business growth by handling their resource requirements.
               Our primary objective is to provide right people satisfying our client needs. We provide clients with qualified and experienced professionals with skills matching their requirement. We are well experienced in our services to clients in satisfying their Permanent Recruitment or in their temporary and contract staffing needs.
               </p>
           </div>
@@ -572,17 +577,17 @@
       </div>
     </div>
 
-    
+
     <!--=======================-->
     <!--Contact Us Section-->
     <!--=======================-->
 	<?php
 if(isset($_POST['Email'])) {
- 
+
     // EDIT THE 2 LINES BELOW AS REQUIRED
     $email_to = "avsmaheshwari@gmail.com";
     $email_subject = "Your email subject line";
- 
+
     function died($error) {
         // your error code can go here
         echo "We are very sorry, but there were error(s) found with the form you submitted. ";
@@ -591,56 +596,56 @@ if(isset($_POST['Email'])) {
         echo "Please go back and fix these errors.<br /><br />";
         die();
     }
- 
- 
+
+
     // validation expected data exists
-    if(!isset($_POST['Name']) ||        
+    if(!isset($_POST['Name']) ||
         !isset($_POST['Email']) ||
         !isset($_POST['Subject']) ||
         !isset($_POST['comment'])) {
-        died('We are sorry, but there appears to be a problem with the form you submitted.');       
+        died('We are sorry, but there appears to be a problem with the form you submitted.');
     }
- 
-     
- 
+
+
+
     $first_name = $_POST['Name']; // required
     $email_from = $_POST['Email']; // required
     $Subject = $_POST['Subject']; // not required
     $comments = $_POST['comment']; // required
- 
+
     $error_message = "";
     $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
- 
+
   if(!preg_match($email_exp,$email_from)) {
     $error_message .= 'The Email Address you entered does not appear to be valid.<br />';
   }
- 
+
     $string_exp = "/^[A-Za-z .'-]+$/";
- 
+
   if(!preg_match($string_exp,$first_name)) {
     $error_message .= 'The First Name you entered does not appear to be valid.<br />';
   }
- 
- 
- 
+
+
+
   if(strlen($comments) < 2) {
     $error_message .= 'The Comments you entered do not appear to be valid.<br />';
   }
- 
+
   if(strlen($error_message) > 0) {
     died($error_message);
   }
- 
+
     $email_message = "Form details below.\n\n";
- 
-     
+
+
     function clean_string($string) {
       $bad = array("content-type","bcc:","to:","cc:","href");
       return str_replace($bad,"",$string);
     }
- 
-     
- 
+
+
+
     $email_message .= "First Name: ".clean_string($first_name)."\n";
     $email_message .= "Email: ".clean_string($email_from)."\n";
     $email_message .= "Subject: ".clean_string($Subject)."\n";
@@ -658,7 +663,7 @@ if(isset($_POST['Email'])) {
   $mail->Username = "themobiledev.idr@gmail.com";
   $mail->Password = "success*123";
   $mail->SetFrom("themobiledev.idr@gmail.com");
-  $mail->Subject = "Message from GKK Associates";
+  $mail->Subject = "Message from GK & K Associates";
   $mail->Body = "The Message is displayed below".$email_message;
   $name = "themobiledev.idr@gmail.com";
   $mail->AddAddress('themobiledev.idr@gmail.com', $name);
@@ -670,13 +675,13 @@ if(isset($_POST['Email'])) {
   }
 
 ?>
- 
-<!-- include your own success html here -->
- 
 
- 
+<!-- include your own success html here -->
+
+
+
 <?php
- 
+
 }
 ?>
     <div class="container-fluid divider" id="contactUs">
@@ -713,7 +718,7 @@ if(isset($_POST['Email'])) {
           <h4>
             <span class="glyphicon glyphicon-map-marker"></span>Address :</h4>
           <div class="font-color" >
-            <strong>GKK Associates (Thailand) Co. Ltd</strong>
+            <strong>GK & K Associates (Thailand) Co. Ltd</strong>
             <br> 61/62 Moo.5, Lat Sawai, Lum Luk ka District, Pathum Thani, Thailand-12150
             <br>Email:info@gkkassociates.com
             <br><br>
@@ -733,13 +738,13 @@ if(isset($_POST['Email'])) {
     <div id="Last" class="container-fluid" style="background-color:black">
       <div class="row footer-content">
         <div class="col-sm-2 aligndiv">
-          <img src="images/01_A_with_Thailand.png" alt="GKKAssociatesLogo">
+         <img src="images/06.png" alt="" id="LogoImage"  width="250px" height="70px" >
         </div>
-    
+
         <div class=" col-sm-3 aligndiv">
           <h5 style="color:whitesmoke">ADDRESS </h5>
           <div style="color:white; margin-top:10px;">
-            <strong>GKK Associates (Thailand) Co. Ltd</strong>
+            <strong>GK & K Associates (Thailand) Co. Ltd</strong>
             <br> 61/62 Moo.5, Lat Sawai, Lum Luk Ka District, Pathum Thani, Thailand-12150
           </div>
         </div>
@@ -751,7 +756,7 @@ if(isset($_POST['Email'])) {
             <br> fax: 02-1021870
           </div>
         </div>
-    
+
         <div class="col-sm-3 aligndiv">
           <h5 style="color:whitesmoke">Subsidiaries</h5>
           <a href="#" style="color:white">GK II- Technologies</a>
@@ -763,7 +768,7 @@ if(isset($_POST['Email'])) {
     <div class="panel-footer" style="background:black; color:white">
       <span class="glyphicon glyphicon-copyright-mark"></span> Copyright:All Rights Reserved
     </div>
-  
+
 </body>
 
 </html>
