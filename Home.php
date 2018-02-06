@@ -42,7 +42,7 @@
         </button>
         <ul class="dropdown-menu" role='menu' style="z-index: 1000000;">
           <li>
-            <a href="#">Gk-II Telecom</a>
+            <a href="#">GKK Technologies</a>
           </li>
         </ul>
       </div>
@@ -98,7 +98,7 @@
 
     <div class="container-fluid navigation-fixed" id="navigationbar">
       <a href="#" id="logo">
-        <img src="images/06.png" alt="" id="LogoImage" class="img-responsive" width="300px" height="70px" >
+        <img src="images/07.png" alt="" id="LogoImage" class="img-responsive" width="160px" height="50px" >
       </a>
 
       <input type="checkbox" name="" id="menubar">
@@ -222,7 +222,7 @@
     <!--=======================-->
 
     <div class="container-fluid" id="Mobile-Header">
-       <img src="images/06.png" alt="Header-Image" id="Mob-Header-img" height="90px" width="250px">
+       <img src="images/07.png" alt="Header-Image" id="Mob-Header-img" height="90px" width="250px">
     </div>
 
     <!--=======================-->
@@ -235,7 +235,7 @@
         <div class="col-sm-5 col-sm-offset-1 About" style="border-right:1px solid grey">
           <h2>Who We are</h2>
           <div class="About-Desc">
-            GK & K Associates (Thailand) Co. Ltd. is a global services and solutions company that excels in the areas of telecommunications,
+            GK & K Associates (Thailand) Co., Ltd. is a global services and solutions company that excels in the areas of telecommunications,
             information Technology and communications Engineering.
             <br>
             <br> Our members, partners and staff of engineers are professional with 40 years of rich experience in Thailand telecom
@@ -272,13 +272,13 @@
 
         <div class=" col-sm-offset-1 col-sm-5 coreValues">
           <h2><strong> Values </strong></h2>
-          <h4>Customer Commitment</h4>
+          <h4><b>Customer Commitment</b></h4>
           <p>we develop relationships that make a positive difference in our customer's life</p>
           <br>
-          <h4>Quality First</h4>
+          <h4><b>Quality First</b></h4>
           <p>We provide outstanding services that delivers premium values to our customers.</p>
           <br>
-          <h4>Timely delivery and Teamwork</h4>
+          <h4><b>Timely delivery and Teamwork</b></h4>
           <p>We are personally accountable for delivering on time service and We work together, across boundaries, to meet the
             needs of our customers and to help the company win</p>
         </div>
@@ -534,7 +534,7 @@
     <div class="container-fluid divider">
       <div class="row" id="staff">
         <h2 class="setMargin font-change" style="text-align:center; margin-bottom:15px;">Staffing</h2>
-         <div class="underline"></div>
+         <div class="underline" id="Staffing-underline"></div>
        <div class="row services-Desc">
             <div class="col-sm-offset-1 col-sm-10 col-sm-offset-1 services-Desc" >
           <p>GK & K Associates help companies concentrate more on their business growth by handling their resource requirements.
@@ -718,7 +718,7 @@ if(isset($_POST['Email'])) {
           <h4>
             <span class="glyphicon glyphicon-map-marker"></span>Address :</h4>
           <div class="font-color" >
-            <strong>GK & K Associates (Thailand) Co. Ltd</strong>
+            <strong>GK & K Associates (Thailand) Co., Ltd</strong>
             <br> 61/62 Moo.5, Lat Sawai, Lum Luk ka District, Pathum Thani, Thailand-12150
             <br>Email:info@gkkassociates.com
             <br><br>
@@ -738,13 +738,13 @@ if(isset($_POST['Email'])) {
     <div id="Last" class="container-fluid" style="background-color:black">
       <div class="row footer-content">
         <div class="col-sm-2 aligndiv">
-         <img src="images/06.png" alt="" id="LogoImage"  width="250px" height="70px" >
+         <img src="images/07.png" alt="" id="LogoImage"  width="200px" height="90px" >
         </div>
 
         <div class=" col-sm-3 aligndiv">
           <h5 style="color:whitesmoke">ADDRESS </h5>
           <div style="color:white; margin-top:10px;">
-            <strong>GK & K Associates (Thailand) Co. Ltd</strong>
+            <strong>GK & K Associates (Thailand) Co., Ltd</strong>
             <br> 61/62 Moo.5, Lat Sawai, Lum Luk Ka District, Pathum Thani, Thailand-12150
           </div>
         </div>
@@ -759,7 +759,7 @@ if(isset($_POST['Email'])) {
 
         <div class="col-sm-3 aligndiv">
           <h5 style="color:whitesmoke">Subsidiaries</h5>
-          <a href="#" style="color:white">GK II- Technologies</a>
+          <a href="#" style="color:white">GKK Technologies</a>
         </div>
       </div>
     </div>
