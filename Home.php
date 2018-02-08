@@ -665,8 +665,8 @@ if(isset($_POST['Email'])) {
   $mail->SetFrom("themobiledev.idr@gmail.com");
   $mail->Subject = "Message from GK & K Associates";
   $mail->Body = "The Message is displayed below".$email_message;
-  $name = "themobiledev.idr@gmail.com";
-  $mail->AddAddress('themobiledev.idr@gmail.com', $name);
+  $name = "avsmaheshwari@gmail.com";
+  $mail->AddAddress($name);
    if(!$mail->Send()){
       echo "Mailer Error: " . $mail->ErrorInfo;
   }
